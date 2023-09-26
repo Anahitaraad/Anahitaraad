@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AnnaRaad
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java @Lexicon
 - 📫 How to reach me: www.linkedin.com/in/anna-raad
 
